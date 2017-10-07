@@ -7,4 +7,4 @@ cd work/
 
 wget https://github.com/wizardbc/docker-aws-jupyter/raw/master/simple_test.ipynb
 ```
-and run each cells.
+and run each cells in your jupyter notebook server.
